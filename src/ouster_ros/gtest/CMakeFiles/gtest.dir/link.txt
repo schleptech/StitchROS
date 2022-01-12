@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/stitch0001/catkin_WS/src/ouster_ros/gtest/src -Wl,-rpath,/home/stitch0001/catkin_WS/src/ouster_ros/gtest/src: -lpthread 

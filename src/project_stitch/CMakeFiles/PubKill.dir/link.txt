@@ -1,0 +1,1 @@
+/usr/bin/c++       -rdynamic CMakeFiles/PubKill.dir/src/PubKill/PubKill.cpp.o  -o PubKill  -L/usr/local/cuda/lib64 

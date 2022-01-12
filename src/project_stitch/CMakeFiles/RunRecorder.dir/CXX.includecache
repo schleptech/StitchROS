@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stitch0001/catkin_WS/src/project_stitch/src/RunRecorder/RunRecorder.cpp
+stdlib.h
+-
+unistd.h
+-
+time.h
+-
+string
+-
+iostream
+-
+

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/stitch0001/catkin_WS/src/reach_ros_node/devel/setup.sh

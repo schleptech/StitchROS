@@ -1,0 +1,8 @@
+prefix=/home/stitch0001/catkin_WS/src/stitch_video_server/devel
+
+Name: stitch_video_server
+Description: Description of stitch_video_server
+Version: 0.2.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

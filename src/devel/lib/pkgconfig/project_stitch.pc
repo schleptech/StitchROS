@@ -1,0 +1,8 @@
+prefix=/home/schleptech2/catkin_WS/src/devel
+
+Name: project_stitch
+Description: Description of project_stitch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,7 @@
+Running Point Cloud Publisher
+
+Getting Hostname
+Connecting to Sensor
+
+Connected to Sensor
+

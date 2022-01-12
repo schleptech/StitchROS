@@ -1,0 +1,3 @@
+/home/schleptech2/Documents/PubKill/CMakeFiles/rebuild_cache.dir
+/home/schleptech2/Documents/PubKill/CMakeFiles/PubKill.dir
+/home/schleptech2/Documents/PubKill/CMakeFiles/edit_cache.dir

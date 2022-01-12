@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stitch0001/catkin_WS/src/project_stitch/src/rsimgpublisher/ImgPublisher.cpp
+librealsense2/rs.hpp
+-
+fstream
+-
+iostream
+-
+sstream
+-
+stb_image_write.h
+/home/stitch0001/catkin_WS/src/project_stitch/src/rsimgpublisher/stb_image_write.h
+
+/home/stitch0001/catkin_WS/src/project_stitch/src/rsimgpublisher/stb_image_write.h
+stdlib.h
+-
+stdio.h
+-
+stdarg.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+assert.h
+-
+

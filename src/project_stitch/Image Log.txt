@@ -1,0 +1,6 @@
+Img Initiated
+
+Ros Inited
+
+Cameras Detected
+

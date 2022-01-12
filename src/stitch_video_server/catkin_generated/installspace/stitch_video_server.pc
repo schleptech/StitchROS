@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: stitch_video_server
+Description: Description of stitch_video_server
+Version: 0.2.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
